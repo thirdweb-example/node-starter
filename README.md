@@ -37,14 +37,6 @@ THIRDWEB_SECRET_KEY=paste_your_secret_key_here
 
 - For `WALLET_PRIVATE_KEY` export your wallet private key from your wallet.
 
-## Deployment
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-  yarn deploy
-```
-
 ## Additional Resources
 
 - [Documentation](https://portal.thirdweb.com)
