@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "ethers": "^5",
-    "@thirdweb-dev/sdk": "^3",
+    "@thirdweb-dev/sdk": "^4",
     "dotenv": "^16.0.3"
   },
   "devDependencies": {
