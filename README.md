@@ -1,4 +1,4 @@
-# Node Typescript Starter
+# Node Starter
 
 Starter kit to build with Node and thirdweb without additional initial configuration.
 
@@ -7,7 +7,7 @@ Starter kit to build with Node and thirdweb without additional initial configura
 Install the template with [thirdweb create](https://portal.thirdweb.com/cli/create)
 
 ```bash
-  npx thirdweb create app --node --typescript --evm
+  npx thirdweb create app --node
 ```
 
 ## Run Locally
@@ -52,4 +52,4 @@ Please visit our [open source page](https://thirdweb.com/open-source) for more i
 
 ## Need help?
 
-For help, join the [discord](https://discord.gg/thirdweb) or visit our [support page](https://support.thirdweb.com).
+For help, visit our [support site](https://thirdweb.com/support).
