@@ -1,4 +1,6 @@
-# Node Starter
+![tw-banner](https://github.com/thirdweb-example/node-starter/assets/57885104/24bf2701-6105-40cc-a823-e4602109467a)
+
+# node-starter
 
 Starter kit to build with Node and thirdweb without additional initial configuration.
 
