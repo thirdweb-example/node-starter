@@ -6,7 +6,7 @@ Starter kit to build with Node and thirdweb without additional initial configura
 
 ## Installation
 
-Install the template with [thirdweb create](https://portal.thirdweb.com/cli/create)
+Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
 
 ```bash
   npx thirdweb create app --node
